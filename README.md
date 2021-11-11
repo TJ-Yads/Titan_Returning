@@ -1,5 +1,8 @@
 # Titan_Returning
-Player Controller: This script allows the player to use there guns and stores gun data such as ammo, firerate, damage and FX. The script allows for aim assist, firing, reloading, weapon swapping and ammo regenration. 
+Player Controller: This script allows the player to use there guns and stores gun data such as ammo, firerate, damage and FX. The script allows for aim assist, firing, reloading, weapon swapping and ammo regenration.
+
+
+Player Ability Controller: This script allows the player to use and swap abilities during gameplay, each ability creates an object or effect for the player and the dodge and grenade abilites cannot be swapped out of the button placements. When an ability is used it enters cooldown which is shown by the circle in game.
 
 
 Checkpoint Saving: This script controls the checkpoint system in game and saves data when the player reaches a checkpoint, this allows the game to be closed and opened at the same point of progress along with restarting when the player dies, this also causes the game to save stats such as kills and player data such as weapons unlocked and ammo counts.
