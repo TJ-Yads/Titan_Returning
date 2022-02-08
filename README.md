@@ -15,3 +15,6 @@ Boss Health: This script keeps track of the various target points on the boss an
 
 
 Boss Attacks: This script will play various attacks that the boss uses and can scale the power based on data from Boss Health, some attacks include fire pits and turret spawning.
+
+
+Save Player Stats: This script managed the saving and resetting of player relative stats. These stats included what weapons are currently unlocked, the current magazine of each weapon, the current ammo reserves of each weapon. These stats are saved at checkpoints and reloaded on death or if a player quits and re-enters the game.
